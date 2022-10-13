@@ -626,16 +626,19 @@ button {
 	position: relative;
 }
 .slide-1{
-  background-color: #3AAFD2 !important;
+  background-color: #EBA170 !important;
   background: url(../images/hero-slider/01.jpg) no-repeat center;
+  height:100% !important;
 }
 .slide-2{
   background-color: #F5B1B0!important;
   background: url(../images/hero-slider/02.jpg) no-repeat center;
+  height:100% !important;
 }
 .slide-3{
-  background-color: #EBA170 !important;
+  background-color: #3AAFD2!important;
   background: url(../images/hero-slider/03.jpg) no-repeat center;
+  height:100% !important;
 }
 
 .custom-btn {
