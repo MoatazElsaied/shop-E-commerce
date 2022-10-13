@@ -627,7 +627,7 @@ button {
 }
 .slide-1{
   background-color: #EBA170 !important;
-  background: url(../images/hero-slider/01.jpg) no-repeat center;
+  background: url(../images/hero-slider/03.jpg) no-repeat center;
   height:100% !important;
 }
 .slide-2{
@@ -637,7 +637,7 @@ button {
 }
 .slide-3{
   background-color: #3AAFD2!important;
-  background: url(../images/hero-slider/03.jpg) no-repeat center;
+  background: url(../images/hero-slider/01.jpg) no-repeat center;
   height:100% !important;
 }
 
